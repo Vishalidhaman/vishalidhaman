@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👩‍💻 Vishali's Data Science Portfolio
+# 👩‍💻 Data Science Portfolio
 
 Welcome! I’m a Data Analyst with experience in Power BI, SQL, and machine learning. This portfolio showcases my data-driven projects across different domains.
 
