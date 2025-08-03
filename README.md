@@ -3,7 +3,7 @@ I turn “huh?” into “aha!” — with charts
 
 A certified 🎓 Data Scientist (IIIT Bangalore & upGrad) and an experienced Data Analyst who loves turning noisy datasets into meaningful decisions.
 
-I've worked with everything from market research data and retail analytics to cloud-based data systems, applying tools like SQL, Power BI, DAX, and Excel to pull out trends, patterns, and growth levers that teams actually care about.
+I've worked with everything from market research data and retail analytics to cloud-based data systems, applying tools like SQL, Power BI, DAX, Python and Excel to pull out trends, patterns, and growth levers that teams actually care about.
 
 I don’t just build charts — I dig deep into data, connect the dots, and translate insights into actions that move the needle. Whether it's cleaning messy tables, optimizing reports, or building end-to-end dashboards, I believe great analytics is equal parts curiosity, logic, and storytelling.
 
