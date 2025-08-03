@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Vishali Dhaman, Call me Vee.
 I turn “huh?” into “aha!” — with charts
 
-Hey! I'm Vishali Dhaman — a certified 🎓 Data Scientist (IIIT Bangalore & upGrad) and an experienced Data Analyst who loves turning noisy datasets into meaningful decisions.
+A certified 🎓 Data Scientist (IIIT Bangalore & upGrad) and an experienced Data Analyst who loves turning noisy datasets into meaningful decisions.
 
 I've worked with everything from market research data and retail analytics to cloud-based data systems, applying tools like SQL, Power BI, DAX, and Excel to pull out trends, patterns, and growth levers that teams actually care about.
 
